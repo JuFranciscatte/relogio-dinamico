@@ -1,0 +1,42 @@
+body{
+  background-color: #5c7ea6;
+  font: normal 16px Arial, sans-serif;
+}
+
+header{
+  color: #213245;
+  text-align: center;
+}
+
+section{
+  background: #ebebeb;
+  margin: auto;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+  width: 50%;
+}
+
+footer{
+  color: #213245;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  font-style: italic;
+}
+
+
+div{
+  text-align: center;
+  margin: 10px auto;
+  padding: 8px;
+  border-radius: 10px;
+}
+
+  img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+  }
