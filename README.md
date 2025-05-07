@@ -1,18 +1,10 @@
-<h1 align="center"> Verificador de Hora </h1>
-
-<p align="center">
-Projeto desenvolvido com base em exercício do Curso em Vídeo para treino de tecnologias WEB.
-</p>
-
-<p align="center">
-  <img alt="relogiodinamico" src=".github/preview.png" width="70%">
-</p>
-
-<br>
-
 # 🕒 Relógio Dinâmico com Tema por Período do Dia
 
-Este projeto exibe o **horário atual em tempo real**, muda automaticamente a **imagem principal** e o **background da página** com base no período do dia: manhã, tarde ou noite.
+Este projeto exibe o **horário atual em tempo real**, muda automaticamente a **imagem principal** e o **background da página** com base no período do dia: manhã, tarde ou noite. Desenvolvido com base em exercício do Curso em Vídeo para treino de tecnologias WEB
+
+<p align="center">
+  <img alt="Relogio dinamico" src=".github/preview.png" width="70%">
+</p>
 
 ## 🚀 Tecnologias
 
