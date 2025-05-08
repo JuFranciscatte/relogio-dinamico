@@ -1,6 +1,8 @@
 # 🕒 Relógio Dinâmico com Tema por Período do Dia
 
-Este projeto exibe o **horário atual em tempo real**, muda automaticamente a **imagem principal** e o **background da página** com base no período do dia: manhã, tarde ou noite. Desenvolvido com base em exercício do Curso em Vídeo para treino de tecnologias WEB
+<h3> Você pode acessar o projeto clicando <a href="https://jufranciscatte.github.io/relogio-dinamico/" target="_blank">aqui</a> </h3>
+
+Este projeto exibe o **horário atual em tempo real**, muda automaticamente a **imagem principal** e o **background da página** com base no período do dia: manhã, tarde ou noite.
 
 <p align="center">
   <img alt="Relogio dinamico" src=".github/preview.png" width="70%">
@@ -30,3 +32,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O verificador de hora foi criado para explorar e desenvolver habilidades, criatividade.
 
 Feito com ♥ by JúliaFranciscatte
+
+Desenvolvido com base em exercício do [Curso em Vídeo](https://cursoemvideo.com) para prática de tecnologias WEB.
